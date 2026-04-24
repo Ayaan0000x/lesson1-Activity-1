@@ -17,4 +17,4 @@ print("Between my coaching classes, I mostly play football or cricket ")
 
 #step5 calculating study hours in a week 
 
-print("So, I study for ",(4*7),   "hours a week")
+print("So, I study for ",(4*7) , "hours a week")
